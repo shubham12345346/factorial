@@ -1,5 +1,5 @@
-# factorial
-factorial program using recursion
+// factorial
+//factorial program using recursion
 
 int fact(int n){
 if(n == 0){
