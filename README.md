@@ -14,5 +14,5 @@ return ans*n;
 int main(){
 int n;
 cin>>n;
-cout<<factorial(n)<<endl;
+cout<<fact(n)<<endl;
 }
